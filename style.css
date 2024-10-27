@@ -1,0 +1,58 @@
+/* Font Family */
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* General Rules */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body */
+
+body {
+  font-family: Outfit, sans-serif;
+  font-size: 15px;
+  background-color: #d5e1ef;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Container */
+
+.container {
+  background-color: #fff;
+  max-width: 330px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1em;
+  border-radius: 15px;
+  text-align: center;
+}
+
+/* Image */
+
+img {
+  width: 98%;
+  border-radius: 15px;
+}
+
+/* Bold Paragraph */
+
+.bold {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin: 1em 0;
+}
+
+/* Thin Paragraph */
+
+.thin {
+  font-weight: 400;
+  opacity: 0.5;
+  margin: 0 1em 1em;
+}
