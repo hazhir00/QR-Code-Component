@@ -53,6 +53,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Linkedin - [Hazhir Naseri](www.linkedin.com/in/hazhir-naseri-610091186)
 - Frontend Mentor - [@hazhir00](https://www.frontendmentor.io/profile/hazhir00)
+- Github - [@hazhir00](https://github.com/hazhir00)
 
 ## Acknowledgments
 
