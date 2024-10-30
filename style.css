@@ -41,17 +41,17 @@ img {
   border-radius: 15px;
 }
 
-/* Bold Paragraph */
+/* H1 Heading*/
 
-.bold {
+h1 {
   font-weight: 700;
   font-size: 1.5rem;
   margin: 1em 0;
 }
 
-/* Thin Paragraph */
+/* Paragraph */
 
-.thin {
+p {
   font-weight: 400;
   opacity: 0.5;
   margin: 0 1em 1em;
